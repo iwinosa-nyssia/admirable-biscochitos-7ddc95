@@ -21,7 +21,7 @@ function Home() {
       <header className="border-b border-stone-200">
         <div className="max-w-6xl mx-auto flex items-center justify-between px-5 py-5">
           <Link to="/" className="text-lg font-bold tracking-tight">
-            Wellspring Foundation
+            Auxano Dorea
           </Link>
           <nav className="hidden sm:flex items-center gap-8 text-sm font-medium text-stone-600">
             <a href="#programs" className="hover:text-stone-900">
@@ -52,7 +52,7 @@ function Home() {
             Clean water, real education, and care that reaches every village.
           </h1>
           <p className="text-lg text-stone-600 leading-relaxed mb-8">
-            Wellspring Foundation partners directly with communities to build wells,
+            Auxano Dorea partners directly with communities to build wells,
             fund schooling, and run mobile health clinics — with local people
             leading the work long after we've moved on.
           </p>
