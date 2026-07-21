@@ -1,4 +1,4 @@
-# Wellspring Foundation
+# Auxano Dorea
 
 A nonprofit organization site presenting the mission, programs (clean water, education, community health), impact stats, a donate call-to-action, and a contact form.
 
