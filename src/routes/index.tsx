@@ -49,7 +49,7 @@ function Home() {
             A nonprofit for lasting change
           </p>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight leading-[1.05] mb-6">
-            Clean water, real education, and care that reaches every village.
+           grow the gift.
           </h1>
           <p className="text-lg text-stone-600 leading-relaxed mb-8">
             Auxano Dorea partners directly with communities to build wells,
