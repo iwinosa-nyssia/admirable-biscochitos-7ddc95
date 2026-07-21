@@ -52,9 +52,11 @@ function Home() {
            grow the gift.
           </h1>
           <p className="text-lg text-stone-600 leading-relaxed mb-8">
-            Auxano Dorea partners directly with communities to build wells,
-            fund schooling, and run mobile health clinics — with local people
-            leading the work long after we've moved on.
+            Auxano Dorea will be a 501(c)3 organization focused on providing
+            grants for international, mission-minded business owners.
+            Specifically in the coutnry of Brazil, our mission is to financially
+            support Chrisitan business owners as they engage in social entrepreneurship 
+            and spread the Gospel. 
           </p>
           <div className="flex flex-wrap gap-4">
             <a
@@ -153,7 +155,7 @@ function Home() {
       </section>
 
       <footer className="max-w-6xl mx-auto px-5 py-12 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-stone-500">
-        <span>&copy; {new Date().getFullYear()} Wellspring Foundation. A registered nonprofit.</span>
+        <span>&copy; {new Date().getFullYear()} Auxano Dorea. Coming soon.</span>
         <Link to="/contact" className="font-medium text-stone-700 hover:text-emerald-700">
           Contact us
         </Link>
